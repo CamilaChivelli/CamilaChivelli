@@ -6,17 +6,6 @@
 
   <br/><br/>
 
-  <!-- Badges con tu paleta exacta -->
-  <a href="https://www.linkedin.com/in/camilachivelli/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A2947?style=for-the-badge&logo=linkedin&logoColor=F3E4C9" />
-  </a>
-  <a href="mailto:proyectos.chivelli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-8B5E3C?style=for-the-badge&logo=gmail&logoColor=F3E4C9" />
-  </a>
-  <a href="TU_LINK_DE_NOTION">
-    <img src="https://img.shields.io/badge/Notion-Portfolio-D3D4C0?style=for-the-badge&logo=notion&logoColor=0A2947" />
-  </a>
-
 </div>
 
 <br/>
