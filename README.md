@@ -6,6 +6,8 @@
 
 </div>
 
+### Connect with me:
+
 <p align="left">
   <a href="TU_LINK_DE_LINKEDIN" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
@@ -16,6 +18,12 @@
   <a href="TU_LINK_DE_NOTION" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/notion/default.svg" width="52" height="40" alt="notion" />
   </a>
+</p>
+
+<br/>
+
+<p align="left">
+  <img src="LINK_A_TU_IMAGEN_DEL_GATO" width="100px" alt="Cat illustration" />
 </p>
 
 
