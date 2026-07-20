@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Typing SVG con tu paleta (#0A2947 para el texto) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F3E4C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Camila+Chivelli+%F0%9F%90%BE;Data+Analyst+%7C+Data+Mining;Transforming+Messy+Data+Into+Clear+Stories;Machine+Learning+%26+EDA;Making+Complex+Data+Simple" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F3E4C9&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Science;Transforming+Messy+Data+Into+Clear+Stories;Machine+Learning+%26+EDA;Making+Complex+Data+Simple" alt="Typing SVG" />
 
 </div>
 
