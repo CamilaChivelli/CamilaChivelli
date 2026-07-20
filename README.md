@@ -10,16 +10,19 @@
 
 <p align="left">
   <a href="TU_LINK_DE_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A2947?style=flat-square&logo=linkedin&logoColor=F3E4C9" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:TU_EMAIL@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-8B5E3C?style=flat-square&logo=gmail&logoColor=F3E4C9" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="TU_LINK_DE_NOTION" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/notion/default.svg" width="52" height="40" alt="notion" />
+    <img src="https://img.shields.io/badge/Notion-D3D4C0?style=flat-square&logo=notion&logoColor=0A2947" alt="Notion" />
   </a>
 </p>
 
+<br/>
 
 ## 🚀 About Me
 I build end-to-end data projects, taking raw information from initial transformation all the way to meaningful visualization. I thrive in the middle of the process—cleaning messy data, conducting thorough exploratory analysis (EDA), and using data mining techniques to segment and understand complex behaviors.
