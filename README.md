@@ -8,3 +8,8 @@
   <a href="proyectos.chivelli@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="TU_LINK_DE_NOTION"><img src="https://img.shields.io/badge/Notion-Portfolio%20%26%20Notes-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
+
+## 🚀 About Me
+I build end-to-end data projects, taking raw information from initial transformation all the way to meaningful visualization. I thrive in the middle of the process—cleaning messy data, conducting thorough exploratory analysis (EDA), and using data mining techniques to segment and understand complex behaviors.
+
+Beyond the technical side, I’m a big fan of clear documentation and knowledge sharing. I take pride in turning my process into clean, easy-to-read guides so others can see how a project evolves and feel inspired to build their own. If my work helps someone understand a concept faster or sparks their passion for data, that’s a big win for me.
