@@ -1,13 +1,25 @@
 # Hi, I'm Camila! 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Data+Mining;Transforming+Messy+Data+Into+Clear+Insights;Machine+Learning+%26+EDA;Making+Complex+Data+Simple" alt="Typing SVG" />
+
+  <!-- Typing SVG con tu paleta (#0A2947 para el texto) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A2947&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Camila+Chivelli+%F0%9F%90%BE;Data+Analyst+%7C+Data+Mining;Transforming+Messy+Data+Into+Clear+Stories;Machine+Learning+%26+EDA;Making+Complex+Data+Simple" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <!-- Badges con tu paleta exacta -->
+  <a href="https://www.linkedin.com/in/camilachivelli/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A2947?style=for-the-badge&logo=linkedin&logoColor=F3E4C9" />
+  </a>
+  <a href="mailto:proyectos.chivelli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8B5E3C?style=for-the-badge&logo=gmail&logoColor=F3E4C9" />
+  </a>
+  <a href="TU_LINK_DE_NOTION">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-D3D4C0?style=for-the-badge&logo=notion&logoColor=0A2947" />
+  </a>
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/camilachivelli/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="proyectos.chivelli@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="TU_LINK_DE_NOTION"><img src="https://img.shields.io/badge/Notion-Portfolio%20%26%20Notes-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-</p>
+<br/>
 
 ## 🚀 About Me
 I build end-to-end data projects, taking raw information from initial transformation all the way to meaningful visualization. I thrive in the middle of the process—cleaning messy data, conducting thorough exploratory analysis (EDA), and using data mining techniques to segment and understand complex behaviors.
