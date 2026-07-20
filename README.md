@@ -20,12 +20,6 @@
   </a>
 </p>
 
-<br/>
-
-<p align="left">
-  <img src="LINK_A_TU_IMAGEN_DEL_GATO" width="100px" alt="Cat illustration" />
-</p>
-
 
 ## 🚀 About Me
 I build end-to-end data projects, taking raw information from initial transformation all the way to meaningful visualization. I thrive in the middle of the process—cleaning messy data, conducting thorough exploratory analysis (EDA), and using data mining techniques to segment and understand complex behaviors.
