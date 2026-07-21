@@ -36,20 +36,3 @@ Beyond the technical side, I’m a big fan of clear documentation and knowledge 
 * 🧹 **[Data Cleaning & EDA Pipeline](LINK_A_TU_REPO)** — End-to-end Python pipeline focused on transformation, handling missing data, and clear documentation.
 
 
-
-## 📈 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamilaChivelli&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F3E4C9&text_color=D3D4C0" alt="Camila's GitHub Stats" width="400" />
-</p>
-
-
-
-
----
-
-<div align="center">
-  <!-- Reemplazá 'URL_DE_TU_IMAGEN_DEL_GATO' por el link directo a la foto subida a tu GitHub -->
-  <img src="URL_DE_TU_IMAGEN_DEL_GATO" width="90" alt="Cat Illustration" />
-  <p><i>Building data stories, one script at a time.</i> ✨</p>
-</div>
