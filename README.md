@@ -15,3 +15,41 @@
 I build end-to-end data projects, taking raw information from initial transformation all the way to meaningful visualization. I thrive in the middle of the process—cleaning messy data, conducting thorough exploratory analysis (EDA), and using data mining techniques to segment and understand complex behaviors.
 
 Beyond the technical side, I’m a big fan of clear documentation and knowledge sharing. I take pride in turning my process into clean, easy-to-read guides so others can see how a project evolves and feel inspired to build their own. If my work helps someone understand a concept faster or sparks their passion for data, that’s a big win for me.
+
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0A2947?style=flat-square&logo=python&logoColor=F3E4C9" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0A2947?style=flat-square&logo=postgresql&logoColor=F3E4C9" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-0A2947?style=flat-square&logo=pandas&logoColor=F3E4C9" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0A2947?style=flat-square&logo=scikit-learn&logoColor=F3E4C9" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Notion-0A2947?style=flat-square&logo=notion&logoColor=F3E4C9" alt="Notion" />
+  <img src="https://img.shields.io/badge/Git-0A2947?style=flat-square&logo=git&logoColor=F3E4C9" alt="Git" />
+</p>
+
+
+
+## 📌 Featured Projects
+
+* 📊 **[Obesity Data Analysis & Clustering](LINK_A_TU_REPO)** — Exploratory data analysis and K-Means clustering model to identify health patterns and segment risk profiles.
+* 🧹 **[Data Cleaning & EDA Pipeline](LINK_A_TU_REPO)** — End-to-end Python pipeline focused on transformation, handling missing data, and clear documentation.
+
+
+
+## 📈 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamilaChivelli&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F3E4C9&text_color=D3D4C0" alt="Camila's GitHub Stats" width="400" />
+</p>
+
+
+
+
+---
+
+<div align="center">
+  <!-- Reemplazá 'URL_DE_TU_IMAGEN_DEL_GATO' por el link directo a la foto subida a tu GitHub -->
+  <img src="URL_DE_TU_IMAGEN_DEL_GATO" width="90" alt="Cat Illustration" />
+  <p><i>Building data stories, one script at a time.</i> ✨</p>
+</div>
