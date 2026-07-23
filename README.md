@@ -18,8 +18,7 @@ Beyond the technical side, I’m a big fan of clear documentation and knowledge 
 
 ## 📌 Featured Projects
 
-* 📊 **[Obesity Data Analysis & Clustering](LINK_A_TU_REPO)** — Exploratory data analysis and K-Means clustering model to identify health patterns and segment risk profiles.
-* 🧹 **[Data Cleaning & EDA Pipeline](LINK_A_TU_REPO)** — End-to-end Python pipeline focused on transformation, handling missing data, and clear documentation.
+* 📊 **[Behavioral Health Analytics](https://github.com/CamilaChivelli/health-behavior-data-pipeline)** — End-to-end Python pipeline featuring data cleaning, EDA, and Unsupervised Machine Learning (K-Means Clustering) to segment lifestyle risk patterns.
 
 
 ## 🛠️ Tech Stack & Tools
