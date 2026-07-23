@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/camilachivelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A2947?style=flat-square&logo=linkedin&logoColor=F3E4C9" alt="LinkedIn" /></a> <a href="mailto:proyectos.chivelli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B5E3C?style=flat-square&logo=gmail&logoColor=F3E4C9" alt="Gmail" /></a> <a href="TU_LINK_DE_NOTION" target="_blank"><img src="https://img.shields.io/badge/Notion-D3D4C0?style=flat-square&logo=notion&logoColor=0A2947" alt="Notion" /></a> 
+<a href="https://www.linkedin.com/in/camilachivelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A2947?style=flat-square&logo=linkedin&logoColor=F3E4C9" alt="LinkedIn" /></a> <a href="mailto:proyectos.chivelli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B5E3C?style=flat-square&logo=gmail&logoColor=F3E4C9" alt="Gmail" /></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-D3D4C0?style=flat-square&logo=notion&logoColor=0A2947" alt="Notion" /></a> 
 </div>
 
 ## 🚀 About Me
